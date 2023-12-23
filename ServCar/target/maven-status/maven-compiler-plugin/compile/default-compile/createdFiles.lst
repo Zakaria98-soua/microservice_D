@@ -1,0 +1,8 @@
+controle\servcar\models\CarResponse.class
+controle\servcar\repositories\CarRepository.class
+controle\servcar\entities\Car.class
+controle\servcar\Services\CarService.class
+controle\servcar\controllers\CarController.class
+controle\servcar\entities\Client.class
+controle\servcar\models\CarResponse$CarResponseBuilder.class
+controle\servcar\ServCarApplication.class
