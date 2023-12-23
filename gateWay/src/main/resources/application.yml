@@ -1,0 +1,16 @@
+server:
+  port: 8888
+
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: Gateway
+
+  cloud:
+    discovery:
+      enabled: true
+
+eureka:
+  instance:
+    hostname: localhost
